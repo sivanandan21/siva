@@ -1,9 +1,25 @@
-<!-- 🔥 Banner -->
+<!-- 🔥 CYBER DEMON BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Sivanandan%20PN&fontSize=45&fontColor=ffffff&color=8b0000&gradient=4b004b,000000,8b0000&animation=twinkling&stroke=5e005e&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Sivanandan%20PN&fontSize=50&fontColor=ffffff&color=8b0000&gradient=4b004b,000000,8b0000&animation=twinkling&stroke=5e005e&strokeWidth=1" width="100%"/>
 </p>
 
+<!-- 🔥 ENERGY RISING -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=8b0000&height=40&animation=twinkling&fontColor=ffffff&text=~%20Energy+Level+Rising%20~" width="80%"/>
+</p>
 
+<!-- ✦ ANIMATED NAME BORDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=5&section=header" width="60%"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=FF0000&center=true&vCenter=true&width=600&lines=⟢+SIVANANDAN+PN+⟣;⚡+SIVANANDAN+PN+⚡;🔥+SIVANANDAN+PN+🔥">
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4b004b&height=5&section=header" width="60%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=FF0000&center=true&vCenter=true&width=500&lines=Frontend+Developer;Tech+and+Anime+Enthusiast;Working+on+Glowscan;Let's+Build+Something+Great" />
@@ -11,12 +27,21 @@
 
 ---
 
+<h2 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=800&color=FF0000&center=true&vCenter=true&width=450&lines=>%3E%3E+SYSTEM+BOOT;>>+PROFILE+ACTIVE;>>+ACCESS+GRANTED">
+</h2>
+
 ## 🚀 About Me
 - 🇮🇳 Frontend Developer from India  
 - 🔨 Building: **Glowscan** → https://github.com/sivanandan21/glow  
-- 📱 Instagram: **[@sivanandan_pn](https://instagram.com/sivanandan_pn)**  
+- 🎯 Goal: Become a strong frontend engineer  
+- 🧠 Learning by building real projects  
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=3" width="70%" />
+</div>
 
 ## 🛠 Skills
 `C` · `Java` · `JavaScript` · `Python` · `Kotlin`  
@@ -31,7 +56,12 @@
 
 ---
 
-# 🔥 Stats (Dark Fantasy Theme)
+<!-- Cyber effect before stats -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4b004b&height=50&text=STATS+MODULE+LOADING...&fontColor=ffffff" width="80%" />
+</div>
+
+# 🔥 Stats
 <p align="center">
   <img src="https://img.shields.io/badge/📌_Role-Frontend%20Developer-111?style=for-the-badge&labelColor=8b0000&color=000000" />
   <img src="https://img.shields.io/badge/💻_Status-Active-1a001a?style=for-the-badge&labelColor=5e005e&color=000000" />
@@ -55,6 +85,10 @@
   <img src="https://img.shields.io/badge/⚡_Profile-Always%20Evolving-1a001a?style=for-the-badge&labelColor=5e005e&color=000" />
 </p>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=8b0000&height=50&text=STATS+MODULE+CLOSED&fontColor=ffffff" width="80%" />
+</div>
+
 ---
 
 ## 👁‍🗨 Profile Views
@@ -64,12 +98,26 @@
 
 ---
 
-## 🔗 Socials
+## ⚡ Connect With Me
 <p align="center">
-  <a href="https://instagram.com/sivanandan_pn"><img src="https://img.shields.io/badge/Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/sivanandan21"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/sivanandan_pn">
+    <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://github.com/sivanandan21">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=000000" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF0000&size=20&center=true&width=300&lines=↓+Tap+To+Connect+↓;↓+Tap+To+Follow+↓;↓+Tap+To+Explore+↓" />
 </p>
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving a star to my projects! ⭐</p>
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my projects ⭐
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b0000&height=100&section=footer"/>
+</p>
