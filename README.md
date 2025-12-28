@@ -31,7 +31,7 @@
 
 ---
 
-# 🔥 Stats (Dark Fantasy Theme)
+# 🔥 Stats
 <p align="center">
   <img src="https://img.shields.io/badge/📌_Role-Frontend%20Developer-111?style=for-the-badge&labelColor=8b0000&color=000000" />
   <img src="https://img.shields.io/badge/💻_Status-Active-1a001a?style=for-the-badge&labelColor=5e005e&color=000000" />
