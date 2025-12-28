@@ -1,6 +1,6 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Sivanandan%20PN&fontSize=40&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Sivanandan%20PN&fontSize=45&fontColor=ffffff&color=8b0000&gradient=4b004b,000000,8b0000&animation=twinkling&stroke=5e005e&strokeWidth=1" width="100%"/>
 </p>
 
 <h1 align="center">Sivanandan PN</h1>
@@ -11,60 +11,60 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - 🇮🇳 Frontend Developer from India  
 - 🔨 Building: **Glowscan** → https://github.com/sivanandan21/glow  
 - 📱 Instagram: **[@sivanandan_pn](https://instagram.com/sivanandan_pn)**  
 
 ---
 
-### 🛠️ Skills
+## 🛠 Skills
 `C` · `Java` · `JavaScript` · `Python` · `Kotlin`  
 `HTML` · `CSS` · `Django` · `SQL` · `SQLite`
 
 ---
 
-### 🎮 Tools
+## 🎮 Tools I Use
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,kotlin,django,sqlite,git,github,vscode" />
 </p>
 
 ---
 
-## 🔥 Stats (Anime Dark Fantasy)
+# 🔥 Stats (Dark Fantasy Theme)
 <p align="center">
-  <img src="https://img.shields.io/badge/🩸_Demon_Code_Level-Dev%20001-111?style=for-the-badge&labelColor=8b0000&color=000000" />
-  <img src="https://img.shields.io/badge/👁️_Cursed_Energy-Flowing-1a001a?style=for-the-badge&labelColor=5e005e&color=000000" />
-  <img src="https://img.shields.io/badge/🗂️_Repositories-Check_Profile-000?style=for-the-badge&labelColor=4e0000" />
+  <img src="https://img.shields.io/badge/📌_Role-Frontend%20Developer-111?style=for-the-badge&labelColor=8b0000&color=000000" />
+  <img src="https://img.shields.io/badge/💻_Status-Active-1a001a?style=for-the-badge&labelColor=5e005e&color=000000" />
+  <img src="https://img.shields.io/badge/📂_Repositories-Check%20Profile-000?style=for-the-badge&labelColor=4e0000" />
 </p>
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 <p align="center">
-  <img src="https://img.shields.io/badge/⚔️_Nichirin_Spirit-Rising%20Developer-111?style=for-the-badge&labelColor=7a0000&color=000" />
-  <img src="https://img.shields.io/badge/👁️_Cursed_Rank-Grade%202%20Sorcerer-1a001a?style=for-the-badge&labelColor=5b005b&color=000" />
-  <img src="https://img.shields.io/badge/🥀_Legacy-Forge%20In%20Progress-000?style=for-the-badge&labelColor=7e0000" />
+  <img src="https://img.shields.io/badge/🚀_Journey-In%20Progress-111?style=for-the-badge&labelColor=7a0000&color=000" />
+  <img src="https://img.shields.io/badge/📈_Skill%20Growth-Ongoing-1a001a?style=for-the-badge&labelColor=5b005b&color=000" />
+  <img src="https://img.shields.io/badge/🛠️_Projects-Building-000?style=for-the-badge&labelColor=7e0000" />
 </p>
 
 ---
 
-## 🔥 Streak Energy
+# 🔥 Streak
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_Breath_of_Code-Streak%20In%20Contributions-111?style=for-the-badge&labelColor=8b0000&color=000" />
-  <img src="https://img.shields.io/badge/👁️_Domain_Expansion-Profile%20Growth-1a001a?style=for-the-badge&labelColor=5e005e&color=000" />
+  <img src="https://img.shields.io/badge/🔥_Activity-Contributions%20Visible-111?style=for-the-badge&labelColor=8b0000&color=000" />
+  <img src="https://img.shields.io/badge/⚡_Profile-Always%20Evolving-1a001a?style=for-the-badge&labelColor=5e005e&color=000" />
 </p>
 
 ---
 
-## 👁 Profile Views
+## 👁‍🗨 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sivanandan21&style=for-the-badge&color=red"/>
+  <img src="https://komarev.com/ghpvc/?username=sivanandan21&style=for-the-badge&color=ff0000"/>
 </p>
 
 ---
 
-## 📎 Socials
+## 🔗 Socials
 <p align="center">
   <a href="https://instagram.com/sivanandan_pn"><img src="https://img.shields.io/badge/Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/sivanandan21"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
