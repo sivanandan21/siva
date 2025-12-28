@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Sivanandan%20PN&fontSize=45&fontColor=ffffff&color=8b0000&gradient=4b004b,000000,8b0000&animation=twinkling&stroke=5e005e&strokeWidth=1" width="100%"/>
 </p>
 
-<h1 align="center">Sivanandan PN</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=FF0000&center=true&vCenter=true&width=500&lines=Frontend+Developer;Tech+and+Anime+Enthusiast;Working+on+Glowscan;Let's+Build+Something+Great" />
